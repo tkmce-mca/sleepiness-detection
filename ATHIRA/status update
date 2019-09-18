@@ -1,0 +1,17 @@
+current status:
+                created a home page for motor vechile dept so that driver(can login before driving) and MVI(check driver status)
+                developed ui for driver registration
+                developed vechile inspector registration page
+                
+                
+open issue:
+              dont know how to add gps tracking to identify driver location
+              application:
+                           pip installation failed in windows OS
+                           dont know how to connect UI with application
+                           
+                           
+ plans:
+               install pip in ubuntu
+               remaining UI developement
+               

@@ -1,0 +1,11 @@
+Current status:
+     Successfully installed Open CV,dlib,pip etc in Linux mint.
+     Download shape_predictor_68_face_landmarks.dat file.
+     Successfully code a Python to detect facial landmark by upload an image.
+     successfully code to capture an image using camera.
+Future plan:
+     Modify the code to produce an alert message and an alarm when drowsiness detection.
+     Do remaining UI.
+     Link UI with Python code.
+Open issue:
+     While working with Open CV platform the test window didn't show the live image,it show a blank screen.But actually it captured and stored the images.

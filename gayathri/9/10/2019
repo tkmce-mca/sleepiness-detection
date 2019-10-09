@@ -1,0 +1,13 @@
+Current status:
+        Installed open CV,dlib,pip etc.
+        Downloaded shape_predictor_68_face_landmarks.dat file
+        Done the remaining User Interface.
+Future Plans:
+       Do the remaining User Interface.
+       Modify the code to produce a warning alert and an alert message whenever drowsiness is detected.
+       Link UI with python code.
+Open issues:
+       While working with open CV platform,the test window didn't show the live image of the person but captured
+       and recorded the parameters.
+       
+       

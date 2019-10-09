@@ -1,0 +1,15 @@
+current status:
+               install opencv ,dlib,cmake packages
+               successfully coded to take live image and print its parameter values according to aspect ratio of eye
+               UI part progress
+               
+open issue:
+           application 
+                       test window of cv platform dont working properly
+                       dont recording the live video insted of recording it as images
+ plans:
+        application
+                    modify code to produce an alert and an alarm whenever drowsiness detected
+                    trying to add more features of drowsiness
+                    
+           

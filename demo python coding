@@ -5,16 +5,10 @@ from imutils import face_utils
 from math import sqrt
 #import matplotlib.pyplot as plt
 
-print('Initialising...')
+print('Initialising..........')
 
 print('Setting up camera...')
 cam = cv2.VideoCapture(0)
-
-font = cv2.FONT_HERSHEY_DUPLEX
-bottomLeftCornerOfText = (10, 400)
-fontScale = .5
-fontColor = (255, 255, 255)
-lineType = 1
 
 def minus(p1,p2):
     x1 = p1[0]
@@ -25,7 +19,7 @@ def minus(p1,p2):
     return out
   
 # the facial landmark predictor
-print("[INFO] loading facial landmark predictor...")
+print("[INFO] loading facial landmark predictor.........")
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor("shape_predictor_68_face_landmarkst.dat")
 num_setup_frames = 90

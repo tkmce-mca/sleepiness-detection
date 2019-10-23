@@ -1,0 +1,13 @@
+current status:
+              successfully coded to take live image of face and spotted eye closing.
+              UI part editing
+ open issue:
+           application:
+                      alert modules doesn't working properly
+                      ui part shifting from windows to linux mint
+ plans:
+        application:
+                    modify code to produce an alert and an alarm whenever drowsiness detected
+                    trying to add more features of drowsiness(yawning)
+                    link UI with apllication
+                                         

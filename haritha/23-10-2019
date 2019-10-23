@@ -1,0 +1,10 @@
+Current status:
+        Successfully code to capture live image using camera.
+        Successfully modify the code to detect eye closing and provide a warning message.
+Future plan:
+        Modify the code to produce an alarm when drowsiness detection.
+        Try to code to produce alarm when Yawning.
+        Shift the UI part from Windows to Linux Mint.
+        Link UI with Python code.
+Open issue:
+        Currently UI is in Windows and Python code is in Linux Mint. 

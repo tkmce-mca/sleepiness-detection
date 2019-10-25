@@ -1,0 +1,17 @@
+Current Status:
+     Eye closing spotted successfully and provided warning message.
+     Editing python code to capture live image of face.
+     Done UI part.
+  
+Open issue:
+     Application part:
+          Shifting UI part to linux mint from windows.
+          Alert module doesn't working properly.
+          
+Future Plans:
+    Need to fix GPS Tracking.
+    Modify code to produce an alert and an alarm whenever drowsiness is detected.
+    Need to add new features such as yawning.
+    Need to linx UI with application.
+    
+                 
